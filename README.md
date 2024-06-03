@@ -19,12 +19,12 @@ If you find this repo useful in your research, please consider citing our work:
 
 ## Training
 ```python
-python -u train.py --config-file configs/train_alphanet_models_add.yml
+python train.py --config-file configs/train_alphanet_models_add.yml
 ```
 
 ## Evolutionary Search
 ```python
-python -u search.py --config-file configs/search_adder.yml
+python search.py --config-file configs/search_adder.yml
 ```
 
 
