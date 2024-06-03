@@ -24,7 +24,7 @@ python -u train.py --config-file configs/train_alphanet_models_add.yml
 
 ## Evolutionary Search
 ```python
-python -u search.py --config-file configs/train_alphanet_models_add.yml
+python -u search.py --config-file configs/search_adder.yml
 ```
 
 
